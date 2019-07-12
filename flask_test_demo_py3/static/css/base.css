@@ -2,7 +2,7 @@ body{
     background-color: #f3f3f3;
 }
 .logo{
-    width: 50px;
+    width: 65px;
     height: 30px;
 }
 .main{
@@ -11,4 +11,11 @@ body{
     margin: 0 auto;
     overflow: hidden;
     padding: 10px;
+}
+.form-container{
+    width: 500px;
+    margin: 0 auto;
+}
+.page-title{
+    text-align: center;
 }
